@@ -212,7 +212,7 @@ footer {
   min-width: 7rem;
   color: #b2c0c6;
   padding: .5rem 1.125rem;
-  border-radius: 12px;
+  border-radius: 2px;
   -webkit-transition: background-color 0.2s ease;
   -moz-transition: background-color 0.2s ease;
   -ms-transition: background-color 0.2s ease;
