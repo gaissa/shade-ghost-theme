@@ -1,5 +1,5 @@
 {
-  "name": "shade-ghost-theme-dev",
+  "name": "shade",
   "version": "1.1.0",
   "description": "null",
   "main": "gulpfile.js",
@@ -11,11 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/moso/shade-ghost-theme.git"
+    "url": "git+https://github.com/gaissa/shade-ghost-theme.git"
   },
   "author": [
-    "Morten Sørensen (morten@moso.io)"
+    "Morten Sørensen (morten@moso.io) | Janne Kähkönen (https//gaissa.github.io)"
   ],
-  "license": "MIT (https://github.com/moso/shade-ghost-theme/blob/master/LICENSE)",
-  "homepage": "https://github.com/moso/shade-ghost-theme"
+  "license": "MIT (https://github.com/gaissa/shade-ghost-theme/blob/master/LICENSE)",
+  "homepage": "https://github.com/gaissa/shade-ghost-theme"
 }

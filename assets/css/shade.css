@@ -191,7 +191,7 @@ footer {
   padding: 40px 0;
   border-top: 1px solid rgba(255, 255, 255, 0.05);
   color: #94a8b1;
-  text-aligh: center;
+  text-align: center;
   background-color: #263238; }
   @media (max-width: 500px) {
     footer {
@@ -212,7 +212,7 @@ footer {
   min-width: 7rem;
   color: #b2c0c6;
   padding: .5rem 1.125rem;
-  border-radius: 2px;
+  border-radius: 12px;
   -webkit-transition: background-color 0.2s ease;
   -moz-transition: background-color 0.2s ease;
   -ms-transition: background-color 0.2s ease;
