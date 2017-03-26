@@ -163,7 +163,7 @@ pre, code {
 header {
   display: flex;
   flex-direction: column;
-  height: calc(60% + 68px);
+  height: calc(30% + 68px);
   background-color: #263238;
   color: #a3b4bc;
   text-align: center;
